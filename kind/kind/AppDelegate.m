@@ -20,8 +20,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    [Parse setApplicationId:@"hSl3KtKk3rvAoG7JLqkaZawyXmXeYUaXj1E5tPXU"
-                  clientKey:@"oFb2ssxxynePwqo3QSbg91qfomRns4Xzj7sqOskl"];
+    [Parse setApplicationId:@""
+                  clientKey:@""];
     
     [PFAnalytics trackAppOpenedWithLaunchOptions:launchOptions];
     
